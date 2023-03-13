@@ -1,0 +1,26 @@
+[
+  {"model": "api.promocode",
+    "pk": 1,
+    "fields": {
+      "name": "promo1",
+      "percent": 2,
+      "expire_date": "2023-12-13T15:26:28Z",
+      "is_allowed_to_sum_with_discounts": true}
+  },
+  {"model": "api.promocode",
+    "pk": 2,
+    "fields": {
+      "name": "promo2",
+      "percent": 15,
+      "expire_date": "2030-01-01T16:17:04Z",
+      "is_allowed_to_sum_with_discounts": false}
+  },
+  {"model": "api.promocode",
+    "pk": 3,
+    "fields": {
+      "name": "promo3",
+      "percent": 50,
+      "expire_date": "2025-12-13T15:26:28Z",
+      "is_allowed_to_sum_with_discounts": false}
+  }
+]

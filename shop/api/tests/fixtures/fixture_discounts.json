@@ -1,0 +1,23 @@
+[
+  {"model": "api.discount",
+    "pk": 1,
+    "fields": {
+      "name": "discount1",
+      "percent": 5,
+      "expire_date": "2023-12-13T15:26:28Z"}
+  },
+  {"model": "api.discount",
+    "pk": 2,
+    "fields": {
+      "name": "discount2",
+      "percent": 5,
+      "expire_date": "2023-12-13T15:26:28Z"}
+  },
+  {"model": "api.discount",
+    "pk": 3,
+    "fields": {
+      "name": "discount3",
+      "percent": 5,
+      "expire_date": "2023-12-13T15:26:28Z"}
+  }
+]

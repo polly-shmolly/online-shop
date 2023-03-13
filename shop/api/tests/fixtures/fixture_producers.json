@@ -1,0 +1,23 @@
+[
+  {
+    "model": "api.producer",
+    "pk": 1,
+    "fields": {
+      "name": "producer1"
+    }
+  },
+  {
+    "model": "api.producer",
+    "pk": 2,
+    "fields": {
+      "name": "producer2"
+    }
+  },
+  {
+    "model": "api.producer",
+    "pk": 3,
+    "fields": {
+      "name": "producer3"
+    }
+  }
+]
